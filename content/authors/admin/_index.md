@@ -39,7 +39,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/sohiniwho
   - icon: brands/linkedin
-    url: https://www.linkedin.com/sohini-kundu-95bb7b2b7
+    url: https://in.linkedin.com/in/sohini-kundu-95bb7b2b7
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
